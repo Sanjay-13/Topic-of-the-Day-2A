@@ -26,3 +26,10 @@
 | 11      | 03/30/22 - 04/15/22 | Deployment and enhancements as per the market reviews.                                                 |
 
 End of semester GDP-2
+
+## Budget 
+
+| S. No. | Name                                                  |Hourly Pay|   Role            | Hours/ Daily | Email  |
+|------|---------------------------------------------------------|----------------------------------|-------------------------------| ------------- | ----|
+| 1  | [Sanjay Saripalli](https://github.com/Sanjay-13)  |  $40 |    Back-end Developer   |   5 | s541669@nwmissouri.edu  |
+| 2    | [Abhilsh Dhumala](https://github.com/Abhilash15)        | $40  | Front-end Developer   | 5 | s542295@nwmissouri.edu  |
