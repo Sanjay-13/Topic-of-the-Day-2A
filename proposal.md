@@ -40,3 +40,7 @@ End of semester GDP-2
 ####  Java/Sprng Boot => Backend language + framework 
 
 - The work will be begin in the second semester as per the designed plan.
+
+#### Heroku => Host App
+
+- We deploy the application at the end of the sprints.
