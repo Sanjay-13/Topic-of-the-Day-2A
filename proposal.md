@@ -53,3 +53,6 @@ End of semester GDP-2
 
 - We submits a request from application for information from the server, which instantly responds by sending a fully rendered page to the client.
 
+#### Angular, CSS, BootStrap => Front-end responsive design 
+
+- We will be responsible for implementing designs and concepts on the web
