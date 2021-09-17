@@ -44,3 +44,12 @@ End of semester GDP-2
 #### Heroku => Host App
 
 - We deploy the application at the end of the sprints.
+
+#### Heroku PostgreSQL => Data Host & Type
+
+- Usage and creation of databases will be begin in the begining of second semster.
+
+#### Server-side views => Front-end page plan 
+
+- We submits a request from application for information from the server, which instantly responds by sending a fully rendered page to the client.
+
