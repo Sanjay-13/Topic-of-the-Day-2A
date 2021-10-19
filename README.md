@@ -2,6 +2,9 @@
 ## Request for Proposal
 RFP of the project can be seen [here](https://github.com/Rohitreddz/Topic-of-the-Day/blob/main/rfp.md)
 
+## App Focus:
+The main goal of our application is to help the bearcats to get to know about the updates of different topics that are happening in the university and to check if they reached out to them.
+
 
 ## Proposed Stack For The Project:   
 * Programming Languages :   
