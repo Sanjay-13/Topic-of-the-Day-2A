@@ -34,6 +34,9 @@ End of semester GDP-2
 | 1  | [Sanjay Saripalli](https://github.com/Sanjay-13)  |  $40 |    Back-end Developer   |   5 | s541669@nwmissouri.edu  |
 | 2    | [Abhilsh Dhumala](https://github.com/Abhilash15)        | $40  | Front-end Developer   | 5 | s542295@nwmissouri.edu  |
 
+### Schedule
+![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/Schedule.PNG)
+
 ### Stack 
   
 
