@@ -1,5 +1,10 @@
 # Proposal For the Topic Of The Day..
 
+### Introduction
+
+A progressive web application application that display about the most happening topic that could be helpful for every student regardless of their educational background. This application shows a main highlighted topic on the main screeen in a way where students get to know all the information about that particular topic.
+
+
 ## Sprints and Schedule are set by the two GDP semesters: 
 
 ### First Semester: 
