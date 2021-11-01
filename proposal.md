@@ -8,6 +8,10 @@ A progressive web application application that display about the most happening 
 
 For every two weeks, a sprint is calculated. Each step will be completed in a single Sprint.
 
+### Scope of work   
+
+Sprints are divided into 11 segments and two semesters, with the start and completion dates as well as what we must do in each sprint is clearly stated in below tabluar format.
+
 
 ## Sprints and Schedule are set by the two GDP semesters: 
 
