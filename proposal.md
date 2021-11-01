@@ -56,3 +56,10 @@ End of semester GDP-2
 #### Angular, CSS, BootStrap => Front-end responsive design 
 
 - We will be responsible for implementing designs and concepts on the web
+
+### ER Diagram
+![ERD](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/ERTopic.PNG)   
+### Screens 
+![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/HOME.png)
+![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/LOGIN.png)
+![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/SIGNIN.png)
