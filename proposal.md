@@ -63,3 +63,10 @@ End of semester GDP-2
 ![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/HOME.png)
 ![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/LOGIN.png)
 ![](https://github.com/Sanjay-13/Topic-of-the-Day-2A/blob/main/Images/SIGNIN.png)
+
+
+### References
+https://www.indeed.com/career-advice/career-development/how-to-write-a-project-proposal   
+https://slite.com/learn/how-to-write-project-proposal    
+https://asana.com/resources/project-timeline-schedules    
+https://kissflow.com/project/basics-of-project-scheduling/   
